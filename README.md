@@ -1,0 +1,2 @@
+# descuentoSecuenciales
+Created with CodeSandbox
